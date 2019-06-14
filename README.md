@@ -80,5 +80,5 @@ then糖语法,让书写更流畅,它是协议使用的一个经典案例.
 
 ## TapLabel
 [TapLabel](https://github.com/seasonZhu/TapLabel)
-借鉴ActiveLabel与自己学习Python使用思考的一些正则思路,写的可点击的Label,目前还不够优雅,不过我自己觉得功能还算不错.
+借鉴ActiveLabel与自己学习Python使用思考的一些正则思路,写的可点击的Label,目前还不够优雅,不过我自己觉得功能还算不错.目前还没有cocopods.
 
